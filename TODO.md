@@ -21,6 +21,26 @@
 - add inline citations
 
 
+## Important for the hackathon
+
+- make sure the original part of the idea is clear: **this is not a summarizer!**
+- what does this tool help with?
+    - make scientific research accessible
+    - help moving forward (a good idea could be to come up with follow ups, like perplexity)
+- most similar ideas we need to differentiate from:
+    - automated market research, lead generation, and outreach
+    - academic life assistant: AI helper for college students
+    - data analysis report generation
+    - tl;dr reporter
+    - analyze relational databases
+- most common ideas:
+    - job search/interview preparation assistants
+    - agents to avoid personal procrastination
+    - education agents
+    - HR assistants
+    - social media management assistants
+
+
 # Nice to haves:
 
 - allow the user to ask follow up in the notebook itself
