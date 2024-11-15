@@ -9,8 +9,9 @@
     - find the paper or list of papers online
     - download the content and add to context window
     - generate a detailed answers
-
-
+    - Creating the graph of the agent Planning  step , Task Solving loop.
+    - Improve system prompt e.g.(Include somehting about waht the researcher expects to see)
+  
 ## Notes
 
 - if the paper is short enough, just put it in the context window
