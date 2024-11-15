@@ -19,6 +19,7 @@
     - v0: use text directly
     - v1: download pdf and extract text, images, tables with unstructured.io
 - add inline citations
+- add user inpput for follow ups and help the agent
 
 
 ## Important for the hackathon
